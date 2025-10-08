@@ -68,3 +68,5 @@ Please see [Quickstart Authors](https://idemsinternational.github.io/open-app-bu
 ### For Developers
 
 Please see [Quickstart Developers](https://idemsinternational.github.io/open-app-builder/developers/quickstart/)
+
+Henry Onyango
